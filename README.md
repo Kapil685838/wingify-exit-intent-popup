@@ -19,3 +19,24 @@
 Make sure all the code is written in vanilla JS (including form validation).
 
 Note:The code should be written in such a manner that we can execute the code from the browser's developer console on any website. and you can share a single Vanilla JS code by saving the code in a .txt file and sharing it through Google Drive. We do not need the HTML code.
+
+## Topics required
+- exit intent popup
+- Form
+- DOM
+- Cookies
+- jquery
+
+## Q1. For Desktop, create an exit intent popup with the following design. Below is the functionality we are expecting: 
+On submitting this form:
+
+- Show error if Email or checkbox value is blank.
+- Successful submission: create cookie & auto close the popup
+- On Closing the popup(whether the form is filled or not) a cookie will be created
+- On refresh: if any of the above-created cookies(i.e. successful submission or close) are 
+present, then exit intent popup should not appear.
+
+## Q2. Make a mobile version of the as shown below. The scope will be different here, instead of exit intent the popup should auto appear after 5 seconds.
+
+**_Please note:_**​ There needs to be created using the developer console of the browser on vwo.com 
+using jQuery, JavaScript and CSS commands.
