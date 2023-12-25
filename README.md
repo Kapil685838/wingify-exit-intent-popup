@@ -12,7 +12,7 @@
 
 6) The popup form once submitted or closed, should not be visible after running the code multiple times.
 
-7)You can use google font library of your choice.
+7) You can use google font library of your choice.
 
 8) Image Link - https://useruploads.visualwebsiteoptimizer.com/useruploads/176372/images/339bf06d957c32e3b61f79b563f229af_offerx500.png
 
